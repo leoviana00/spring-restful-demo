@@ -7,12 +7,12 @@ import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
 @RestController
-public class VendasApplication {
+public class WebApplication {
     @GetMapping("/hello")
     public String helloWorld(){
         return "<h1 style=\"color: black; font-size: 40px; font: cursive;\">Hello World, Estudando Springboot 💻 </h1>";
     }
     public static void main(String[] args) {
-        SpringApplication.run(VendasApplication.class, args);
+        SpringApplication.run(WebApplication.class, args);
     }
 }
