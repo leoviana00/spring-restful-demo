@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="674cf2e6-f6d1-4123-b11f-25ddb12d16e1" name="Changes" comment="feat(spring): starters">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/model/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/repository/ClienteRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/service/ClienteService.java" afterDir="false" />
+    <list default="true" id="674cf2e6-f6d1-4123-b11f-25ddb12d16e1" name="Changes" comment="feat(spring): injecao de dependencias">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/leoviana/WebApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/WebApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/leoviana/WebConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/WebConfiguration.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679601910009</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat(spring): injecao de dependencias">
+      <created>1679604648637</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679604648637</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +141,7 @@
     <MESSAGE value="doc(spring): add modulo1 ao readme" />
     <MESSAGE value="feat(spring): configurations e bean" />
     <MESSAGE value="feat(spring): starters" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(spring): starters" />
+    <MESSAGE value="feat(spring): injecao de dependencias" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(spring): injecao de dependencias" />
   </component>
 </project>
