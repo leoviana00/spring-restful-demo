@@ -3,6 +3,11 @@
 - Estudo do Springboot
 
 ## ✨ Tools
+- Springboot
+- Spring Parent
+- Spring Starter
+- Spring Maven Plugin
+- Spring Starter Web
 
 ## 🚀 Etapas
 

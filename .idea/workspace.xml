@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="674cf2e6-f6d1-4123-b11f-25ddb12d16e1" name="Changes" comment="doc(spring): add modulo1 ao readme">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/WebConfiguration.java" afterDir="false" />
+    <list default="true" id="674cf2e6-f6d1-4123-b11f-25ddb12d16e1" name="Changes" comment="feat(spring): configurations e bean">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/leoviana/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/leoviana/WebApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/WebApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679597673781</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat(spring): configurations e bean">
+      <created>1679601152215</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679601152215</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +123,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="doc(spring): add modulo1 ao readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="doc(spring): add modulo1 ao readme" />
+    <MESSAGE value="feat(spring): configurations e bean" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(spring): configurations e bean" />
   </component>
 </project>
