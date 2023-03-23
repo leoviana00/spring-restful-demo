@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="674cf2e6-f6d1-4123-b11f-25ddb12d16e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+    <list default="true" id="674cf2e6-f6d1-4123-b11f-25ddb12d16e1" name="Changes" comment="doc(spring): add modulo1 ao readme">
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/WebConfiguration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/leoviana/App.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/leoviana/WebApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/WebApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +30,19 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f88915d4-57b3-4c9a-a68e-737d0fd57764" />
+        <option name="url" value="https://github.com/leoviana00/spring-restful-demo.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -83,6 +96,14 @@
       <option name="presentableId" value="Default" />
       <updated>1679595156648</updated>
     </task>
+    <task id="LOCAL-00001" summary="doc(spring): add modulo1 ao readme">
+      <created>1679597673781</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679597673781</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +118,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="doc(spring): add modulo1 ao readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="doc(spring): add modulo1 ao readme" />
   </component>
 </project>
