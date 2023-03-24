@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="674cf2e6-f6d1-4123-b11f-25ddb12d16e1" name="Changes" comment="feat(spring): annotations customizadas de config">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-    </list>
+    <list default="true" id="674cf2e6-f6d1-4123-b11f-25ddb12d16e1" name="Changes" comment="feat(spring): Módulo 2 - Persistência e acesso a dados com Spring Data JPA" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="feature-springboot-modulo1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -144,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679657934501</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="feat(spring): Módulo 2 - Persistência e acesso a dados com Spring Data JPA">
+      <created>1679660093802</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679660093802</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,6 +170,7 @@
     <MESSAGE value="feat(spring): application.yaml config ext" />
     <MESSAGE value="feat(spring): multiplos ambientes e profiles" />
     <MESSAGE value="feat(spring): annotations customizadas de config" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(spring): annotations customizadas de config" />
+    <MESSAGE value="feat(spring): Módulo 2 - Persistência e acesso a dados com Spring Data JPA" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(spring): Módulo 2 - Persistência e acesso a dados com Spring Data JPA" />
   </component>
 </project>
