@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="674cf2e6-f6d1-4123-b11f-25ddb12d16e1" name="Changes" comment="feat(spring): [2.4] - script de criacao de banco de dados">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/domain/entity/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/domain/entity/ItemPedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/domain/entity/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/domain/entity/Produto.java" afterDir="false" />
+    <list default="true" id="674cf2e6-f6d1-4123-b11f-25ddb12d16e1" name="Changes" comment="feat(spring): [2.5] - criando classes de modelo">
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/domain/repositorio/Clientes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/leoviana/WebApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/WebApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/leoviana/domain/entity/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/domain/entity/Cliente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679670470009</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="feat(spring): [2.5] - criando classes de modelo">
+      <created>1679670747534</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1679670747534</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,6 +214,7 @@
     <MESSAGE value="feat(spring): Módulo 2 - Springboot base" />
     <MESSAGE value="feat(spring): [2.2] - obtendo conexões com base de dados" />
     <MESSAGE value="feat(spring): [2.4] - script de criacao de banco de dados" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(spring): [2.4] - script de criacao de banco de dados" />
+    <MESSAGE value="feat(spring): [2.5] - criando classes de modelo" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(spring): [2.5] - criando classes de modelo" />
   </component>
 </project>
