@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="674cf2e6-f6d1-4123-b11f-25ddb12d16e1" name="Changes" comment="feat(spring): multiplos ambientes e profiles">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/AnimalConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/Cachorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/Development.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/Gato.java" afterDir="false" />
+    <list default="true" id="674cf2e6-f6d1-4123-b11f-25ddb12d16e1" name="Changes" comment="feat(spring): annotations customizadas de config">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/leoviana/WebApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/WebApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/leoviana/WebConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/WebConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679622098770</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat(spring): annotations customizadas de config">
+      <created>1679657934501</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679657934501</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +165,7 @@
     <MESSAGE value="feat(spring): injecao de dependencias" />
     <MESSAGE value="feat(spring): application.yaml config ext" />
     <MESSAGE value="feat(spring): multiplos ambientes e profiles" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(spring): multiplos ambientes e profiles" />
+    <MESSAGE value="feat(spring): annotations customizadas de config" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(spring): annotations customizadas de config" />
   </component>
 </project>
