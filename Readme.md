@@ -38,3 +38,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - [DOCS SPRINGBOOT](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 - [APPLICATION.YAML](https://www.geeksforgeeks.org/spring-boot-application-yml-application-yaml-file/)
 - [INTELLIJ IDEA + GITHUB](https://www.google.com/search?q=subir+projeto+para+git+com+intellij&oq=subir+projeto+para+git+com+intellij&aqs=chrome..69i57j33i160j33i22i29i30.8784j0j15&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:36bac057,vid:x25JVUPbhdU)
+- [SPRINGBOOT COM BANCO DE DADOS H2](https://www.baeldung.com/spring-boot-h2-database)
+- [HIKARI CP](https://github.com/brettwooldridge/HikariCP)
