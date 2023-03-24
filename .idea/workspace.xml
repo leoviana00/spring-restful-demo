@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="674cf2e6-f6d1-4123-b11f-25ddb12d16e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+    <list default="true" id="674cf2e6-f6d1-4123-b11f-25ddb12d16e1" name="Changes" comment="feat(spring): multiplos ambientes e profiles">
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/AnimalConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/Development.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/Gato.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/leoviana/WebApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/WebApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/leoviana/WebConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/leoviana/WebConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +23,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -30,6 +36,19 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f88915d4-57b3-4c9a-a68e-737d0fd57764" />
+        <option name="url" value="https://github.com/leoviana00/spring-restful-demo.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -83,6 +102,49 @@
       <option name="presentableId" value="Default" />
       <updated>1679595156648</updated>
     </task>
+    <task id="LOCAL-00001" summary="doc(spring): add modulo1 ao readme">
+      <created>1679597673781</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679597673781</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat(spring): configurations e bean">
+      <created>1679601152215</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679601152215</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat(spring): starters">
+      <created>1679601910009</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679601910009</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat(spring): injecao de dependencias">
+      <created>1679604648637</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679604648637</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat(spring): application.yaml config ext">
+      <created>1679606594636</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679606594636</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat(spring): multiplos ambientes e profiles">
+      <created>1679622098770</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679622098770</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +159,12 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="doc(spring): add modulo1 ao readme" />
+    <MESSAGE value="feat(spring): configurations e bean" />
+    <MESSAGE value="feat(spring): starters" />
+    <MESSAGE value="feat(spring): injecao de dependencias" />
+    <MESSAGE value="feat(spring): application.yaml config ext" />
+    <MESSAGE value="feat(spring): multiplos ambientes e profiles" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(spring): multiplos ambientes e profiles" />
   </component>
 </project>
